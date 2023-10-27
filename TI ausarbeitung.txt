@@ -1,0 +1,60 @@
+TI ausarbeitung
+    Notwendig um zu bestehen:
+
+
+    Minimierungsverfahren / Schaltfunktionen
+        Minimalformen und Anwendungen von KNV, KMV
+        Primplikanten
+        Würfelkalkühl
+
+
+    Schaltnetze / CMOS
+        Verschiedene Schaltobjekte
+
+
+    Laufzeiteffekte
+        Laufzeit in Kästchen eintragen
+        Hasardfehler erkennen
+
+
+    Schaltwerke
+        Lernen der Verschiedenen Schaltwerke
+        Zeichnen in 1/0 Diagramm
+        Automatengraphen zeichnen
+        Ablauftabelle
+
+
+    Rechnerartithmetik
+        Bitwise Compute Berrechnung
+        # Prüfbits
+        Carry-Ripple-Addierer/ Carry-Lookahead-Addierer
+        BCD-Zahl
+        Vorzeichenlose Dualzahl
+        Gleitkommazahl im IEEE-754-Standard
+
+
+    RISC-V = Assembly ?
+         Hardware-Komponenten zeichnen  ( R-3 P.Type bei RISC-V)
+         Inhalt Register angeben nach Ausführung
+    
+
+    MIMA- Architektur
+        Mikroprogramm für Phases (Fetch Angeben)
+
+
+    Cache Speicher
+        direkt-abgebildeter Cache-Speicher
+
+
+    Virtuelle Speicherverwaltung
+        Physische Addresse einer Virtuellen Adresse berrechnen
+    
+
+    Pipelining
+        Datenabhängigkeiten bestimmen von Programmstück
+
+        Eintragen von NOP, keine Forwarding
+
+
+    Verschiedenes
+        Kleine Fragen zu Stuff
